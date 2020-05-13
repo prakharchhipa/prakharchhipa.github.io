@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Prakhar Chhipa</title>
+        <link>https://prakharchhipa.in/posts/</link>
+        <description>Recent content in Posts on Prakhar Chhipa</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <lastBuildDate>Tue, 12 May 2020 11:36:33 +0800</lastBuildDate>
+        <atom:link href="https://prakharchhipa.in/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Embassy - Authentication &amp; Authorization in micro services</title>
+            <link>https://prakharchhipa.in/posts/embassy-authentication-authorization-in-micro-services/</link>
+            <pubDate>Tue, 12 May 2020 11:36:33 +0800</pubDate>
+            
+            <guid>https://prakharchhipa.in/posts/embassy-authentication-authorization-in-micro-services/</guid>
+            <description>Hello World! </description>
+            <content type="html"><![CDATA[<h2 id="hello-world">Hello World!</h2>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Starting up with blog</title>
+            <link>https://prakharchhipa.in/posts/starting-up-with-blog/</link>
+            <pubDate>Sun, 10 May 2020 11:36:33 +0800</pubDate>
+            
+            <guid>https://prakharchhipa.in/posts/starting-up-with-blog/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>

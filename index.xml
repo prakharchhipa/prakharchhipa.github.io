@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prakhar Chhipa</title>
+    <link>https://prakharchhipa.in/</link>
+    <description>Recent content on Prakhar Chhipa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://prakharchhipa.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Embassy - Authentication &amp; Authorization in micro services</title>
+      <link>https://prakharchhipa.in/posts/embassy-authentication-authorization-in-micro-services/</link>
+      <pubDate>Tue, 12 May 2020 11:36:33 +0800</pubDate>
+      
+      <guid>https://prakharchhipa.in/posts/embassy-authentication-authorization-in-micro-services/</guid>
+      <description>Hello World! </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://prakharchhipa.in/about/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://prakharchhipa.in/about/</guid>
+      <description>Hello! My name is Prakhar Chhipa. I am a Senior Software Engineer, currently working n living in Gurgaon, India.
+My passion for creating new things is something that has brought me here. Sticking to that I use this creativity to conquer technical challenges at Airtel X Labs, India. I design and develop software for a telecom giant covering millions of customers in various line of businesses.
+When I am not busy digging the codes, I find myself cheering on the greatest of all time, Lionel Messi.</description>
+    </item>
+    
+    <item>
+      <title>Starting up with blog</title>
+      <link>https://prakharchhipa.in/posts/starting-up-with-blog/</link>
+      <pubDate>Sun, 10 May 2020 11:36:33 +0800</pubDate>
+      
+      <guid>https://prakharchhipa.in/posts/starting-up-with-blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
